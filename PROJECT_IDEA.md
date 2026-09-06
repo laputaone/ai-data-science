@@ -1,1 +1,1 @@
-
+My project will review the likelyhood and estimated amount of time it will take for a company's stock price to recover after having a dip. It will catogarize companies based on their size and net worth, and will use companies listed in S&P 500, S&P MidCap 400, and NASDAQ-100. Data will be collected from January 2016- January 2026. This is important because in stock trading, being able to predict the chance that a company's stock price will go up again after a dip is important and will give a major advantage. 
